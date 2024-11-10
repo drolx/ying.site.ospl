@@ -10,8 +10,8 @@ permissions:
   repository-projects: write
 
 env:
-  PROJECT_SRC: sites/site.logistics
-  BUILD_FOLDER: sites/site.logistics/.output/public
+  PROJECT_SRC: sites/logistics
+  BUILD_FOLDER: sites/logistics/.output/public
 
 jobs:
   build:
